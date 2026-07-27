@@ -39,10 +39,10 @@ Some 3D models used in this project were sourced from [Fab](https://www.fab.com)
 
 ## Screenshots
 
+![Splash Screen](Images/splash-screen.png)
+
 ![Level 1](Images/level1.png)
 
 ![Level 2](Images/level2.png)
 
 ![Boss Fight](Images/boss-fight.png)
-
-![Splash Screen](Images/splash-screen.png)
