@@ -1,12 +1,12 @@
 # Below & Beyond
 
-A two-level 3D platformer built solo in Unreal Engine 5.4, where you roll a ball through an underground gauntlet and out into space, collecting crystals while avoiding cannons, saws, alien skulls, and a giant alien boss.
+A two-level 3D platformer built solo in Unreal Engine. Roll through an underground gauntlet and out into space, collecting crystals while avoiding cannons, saws, alien skulls, and a giant alien boss.
 
-**[Click to Play!](#)**
+**[Click to Play!](https://bbat2575.itch.io/below-and-beyond)**
 
 ## About
 
-A short platformer built solo in Unreal Engine using Blueprint scripting - from gameplay systems design to full spatial audio implementation. It showcases physics-based movement, hazard and enemy design, a boss encounter, dynamic sound design, custom asset editing and integration in Blender, and a complete player experience from splash screen through live HUD and win/lose states.
+A short platformer built solo in Unreal Engine 5.4 using Blueprint scripting - from gameplay systems design to full spatial audio implementation. It showcases physics-based movement, hazard and enemy design, a boss encounter, dynamic sound design, custom asset editing and integration in Blender, and a complete player experience from splash screen through live HUD and win/lose states.
 
 ## Features
 - **Two distinct levels** - an underground hazard gauntlet leading into a space-themed finale
