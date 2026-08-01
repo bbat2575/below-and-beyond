@@ -9,7 +9,7 @@ A two-level 3D platformer built solo in Unreal Engine. Roll through an undergrou
 A short platformer built solo in Unreal Engine 5.4 using Blueprint scripting - from gameplay systems design to full spatial audio implementation. It features physics-based movement, hazard and enemy design, a boss encounter, dynamic sound design, custom asset editing and integration in Blender, and a complete player experience from splash screen through live HUD.
 
 ## Features
-- **Immersive level design** evoking a sense of adventure, from deep underground exploration to the vastness of open space
+- **Immersive level design** from deep underground exploration to the vastness of open space
 - **Physics-based ball movement** with responsive controls across various terrains and obstacles
 - **Hazards** - firing cannons, rotating saws, and spooky alien skulls
 - **Boss encounter** - a giant alien firing projectiles in space
